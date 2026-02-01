@@ -1,16 +1,8 @@
-# medgenie
+# MedGenie
 
-A new Flutter project.
+MedGenie is an application made in Flutter where users can input their symptoms, physical stats and prior illness and get a concise solution in form of remedies, dietary changes and lifestyle changes using AI.
 
-## Getting Started
+# Preview
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/a151505b-9583-457c-827d-e13b2d6731ba
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
